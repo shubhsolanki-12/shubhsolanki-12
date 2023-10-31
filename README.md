@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhsolanki-12
 - 👀 I’m interested in developing website for portfolio building.
 - 🌱 I’m currently learning MERN Stack Devlopment.
-- 💞️ I’m looking to collaborate on ...
+- <!---💞️ I’m looking to collaborate on ... --->
 - 📫 Reach me via LinkedIn - www.linkedin.com/in/shubhsolanki
 
 <!---
